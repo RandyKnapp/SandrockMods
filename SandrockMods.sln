@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1340
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuitToDesktop", "QuitToDesktop\QuitToDesktop.csproj", "{D5A69DA0-1B3F-40E4-8E6C-7848D67A424E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursorLockOption", "CursorLockOption\CursorLockOption.csproj", "{28920490-EA75-4FEE-B282-64E37E10BA6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D5A69DA0-1B3F-40E4-8E6C-7848D67A424E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5A69DA0-1B3F-40E4-8E6C-7848D67A424E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5A69DA0-1B3F-40E4-8E6C-7848D67A424E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28920490-EA75-4FEE-B282-64E37E10BA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28920490-EA75-4FEE-B282-64E37E10BA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28920490-EA75-4FEE-B282-64E37E10BA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28920490-EA75-4FEE-B282-64E37E10BA6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

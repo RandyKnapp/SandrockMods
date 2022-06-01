@@ -42,6 +42,9 @@
     <Reference Include="BepInEx">
       <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\My Time at Sandrock\BepInEx\core\BepInEx.dll</HintPath>
     </Reference>
+    <Reference Include="Pathea.Framework">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\My Time at Sandrock\Sandrock_Data\Managed\Pathea.Framework.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -55,6 +58,9 @@
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\My Time at Sandrock\Sandrock_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\My Time at Sandrock\Sandrock_Data\Managed\UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
